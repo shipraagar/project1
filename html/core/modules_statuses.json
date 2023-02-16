@@ -1,0 +1,21 @@
+{
+    "Blog": true,
+    "Service": true,
+    "Model": true,
+    "ServiceCategory": true,
+    "SupportTicket": true,
+    "Donation": true,
+    "Portfolio": true,
+    "Event": true,
+    "Job": true,
+    "Knowledgebase": true,
+    "Product": true,
+    "Inventory": true,
+    "CouponManage": true,
+    "CountryManage": true,
+    "Badge": true,
+    "ShippingModule": true,
+    "TaxModule": true,
+    "Campaign": true,
+    "Attributes": true
+}
